@@ -1,0 +1,22 @@
+*{
+    background-color:darkgray background-image: url(mountains.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+p{
+     margin: 20px;
+     padding: 15px;
+     border: 2px solid black;
+    
+      
+}
+.home footer{
+    /*background-color:white;*/
+    color:darkgreen;
+    font-size:px;
+    text-align: center
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
