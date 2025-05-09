@@ -1,5 +1,5 @@
 *{
-    background-color:darkgray background-image: url(mountains.jpg);
+    background-color:darkgray; background-image: url(mountains.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
@@ -16,7 +16,7 @@ p{
     /*background-color:white;*/
     color:darkgreen;
     font-size:px;
-    text-align: center
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
 }
